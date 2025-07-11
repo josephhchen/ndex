@@ -1,6 +1,6 @@
 # ndex
 
-A modern React + Electron application for searching and exploring vector databases with a beautiful, animated UI.
+Your AI Personal Assistant
 
 ## Quick Start
 
