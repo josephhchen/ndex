@@ -90,8 +90,7 @@ function App() {
               whileHover={{ scale: 1.05 }}
               transition={{ type: "spring", stiffness: 300 }}
             >
-              <Sparkles className="logo-icon" />
-              <span className="logo-text">index</span>
+              <span className="logo-text">ndex</span>
             </motion.div>
           </div>
         </motion.header>
