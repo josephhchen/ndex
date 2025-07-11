@@ -1,5 +1,5 @@
 {
-  "name": "vector-db-search",
+  "name": "ndex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
